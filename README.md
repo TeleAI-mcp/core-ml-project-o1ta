@@ -1,2 +1,3 @@
-# core-ml-project-o1ta
-A machine learning project for modern development workflows
+# Core Ml Project O1Ta
+
+A machine learning project for modern development workflows.
